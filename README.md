@@ -33,7 +33,7 @@
 
 5.默认后台账号密码：admin 123456
 
-6.特别注意!!!  src/main/resources/application-dev.properties下ylrc.upload.photo.path修改为你项目的实际目录,且项目路径不要带中文!!!否在可能会出现无法显示图片的问题!
+ **特别注意!!!  src/main/resources/application-dev.properties下ylrc.upload.photo.path修改为你项目的实际目录,且项目路径不要带中文!!!否在可能会出现无法显示图片的问题!** 
 
 #### 部分截图
 ![输入图片说明](1.png)![输入图片说明](2.png)![输入图片说明](3.png)![输入图片说明](4.png)
